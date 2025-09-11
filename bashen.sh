@@ -1,3 +1,4 @@
+#!/bin/bash
 
 shuf -i 1-100 -n 1 > ~/Documents/ideas/gitgraph/hard_work.dats
 git -C ~/Documents/ideas/gitgraph add .
