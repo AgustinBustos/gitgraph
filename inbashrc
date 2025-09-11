@@ -1,1 +1,1 @@
-nohup ~/Documents/ideas/gitgraph/autopush.sh >/dev/null 2>&1 &
+nohup ~/Documents/ideas/gitgraph/bashen.sh >/dev/null 2>&1 &
